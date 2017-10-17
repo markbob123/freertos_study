@@ -24,4 +24,12 @@ del *.iex /s
 del *.htm /s
 del *.sct /s
 del *.map /s
+del *.tags /s
+del *.tags_sorted_by_file /s
+del *.luolin /s
+del *.zuozh /s
+del *.uvoptx /s
+del *.dbgconf /s
+del *.hex /s
+::/s 意思是表示删除该目录下所有遍历的子目录和文件
 exit
